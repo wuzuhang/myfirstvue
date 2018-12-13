@@ -57,6 +57,7 @@
 .app-contener{
   margin-top: 40px;
   overflow-x: hidden;
+  margin-bottom: 50px;
 }
 
 </style>
